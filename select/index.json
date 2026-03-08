@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お一人様と侵略者",
+  "base_artist": "Empty old City",
+  "createdAt": "2026-03-08T05:23:03.222089Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お一人様と侵略者",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_お一人様と侵略者_Empty_old_City.txt"
+    }
+  ]
+}
